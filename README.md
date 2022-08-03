@@ -1,19 +1,13 @@
 # SQL-KA-Projects
-These are projects I made with SQL while going through Khan Academy's Intro to SQL.
+These are some of the projects that I made with SQL while going through Khan Academy's Intro to SQL course.
 
+[Data Dig](https://www.khanacademy.org/computing/computer-programming/sql/more-advanced-sql-queries/pp/project-data-dig):
+Used the [Top 100 Movies Dataset](https://gist.github.com/pamelafox/c705b02114ea3db0dff0), and SELECT queries to discover statistical information regarding the profits of the bestselling movies.
 
+[Famous People](https://www.khanacademy.org/computing/computer-programming/sql/relational-queries-in-sql/pp/project-famous-people):
+Made a table with some small set of famous musicians along with their Spotify Statistics and generated data about their overlapping musical  
+information.
 
-
-Data Dig:
-Using the Top 100 Movies Dataset, and use advanced SELECT queries to discover things about the data. 
-What sort of questions might one have about that data, like if they were using it for an app or a business idea?
-
-Famous People:
-In this project, you’re going to make your own table with some small set of “famous people”, 
-then make more tables about things they do and join those to create nice human readable lists.
-
-App Impersonator:
-Think about your favorite apps, and pick one that stores your data- like a game that stores scores, an app that lets you post updates, etc. 
-Now in this project, you're going to imagine that the app stores your data in a SQL database (which is pretty likely!), and write SQL statements 
-that might look like their own SQL.
+[App Impersonator](https://www.khanacademy.org/computing/computer-programming/sql/modifying-databases-with-sql/pp/project-app-impersonator):
+Made a mock-table for user-data stored by the mobile app Cytus and generated statistics about user data.
 
