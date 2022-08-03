@@ -9,5 +9,5 @@ Made a table with some small set of famous musicians along with their Spotify St
 information.
 
 [App Impersonator](https://www.khanacademy.org/computing/computer-programming/sql/modifying-databases-with-sql/pp/project-app-impersonator):
-Made a mock-table for user-data stored by the mobile app Cytus and generated statistics about user data.
+Made a mock-table for user-data stored by the mobile app Cytus and used SQL statements to emulate editing and deleting user data.
 
